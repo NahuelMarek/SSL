@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-    fprintf(archivo, "Hello World\n");
+    printf("Hello World\n");
     return 0;
 }
